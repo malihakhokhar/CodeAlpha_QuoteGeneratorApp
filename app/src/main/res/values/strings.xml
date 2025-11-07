@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuoteGenerator</string>
+    <string name="quote_will_appear_here">Quote will appear here</string>
+    <string name="author">- Author</string>
+    <string name="new_quote">New Quote</string>
+</resources>
